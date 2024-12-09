@@ -6,7 +6,7 @@
     <title>Открыть сайт Wix</title>
 </head>
 <body>
-    <h1>https://mirambekkaliev8.wixsite.com/mirambek</h1>
+    <h1>https://miranbek15.github.io/miran/</h1>
     <a href="https://mirambekkaliev8.wixsite.com/mirambek" target="_blank"></a>
 </body>
 </html>
