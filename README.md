@@ -6,7 +6,7 @@
     <title>Открыть сайт Wix</title>
 </head>
 <body>
-    <h1>Нажмите на ссылку, чтобы открыть мой сайт на Wix</h1>
+    <h1>https://mirambekkaliev8.wixsite.com/mirambek</h1>
     <a href="https://mirambekkaliev8.wixsite.com/mirambek" target="_blank">Перейти на мой сайт</a>
 </body>
 </html>
